@@ -1,0 +1,12 @@
+ID    ArtistName                     AlbumName                     TrackNo   TrackName
+132   Avatar                         Avatar Country                 7     A Statue of the King          
+567   Coy                            Bad                            3     Wddgd                         
+135   Borns                          Blue Madonna                   11    Blue Madonna                  
+86    Camila Cabello                 Camila                         16    Havana                        
+242   Ice Cube                       It Was A Good Day              1     It Was A Good Day             
+687   Corrosion of Conformity        No Cross No Crown              12    E.L.M.                        
+499   Eminem                         Recovery                       7     Not Afraid                    
+492   Eminem                         Recovery                       3     On Fire                       
+979   Snoop Dogg                     The Doggfather                 1     Doggfather                    
+876   Black Veil Brides              Vale                           3     Wake Up                       
+543   Black Rebel Motorcycle Club    Wrong Creatures                5     Echo                          
